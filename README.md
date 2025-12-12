@@ -12,7 +12,7 @@ Sur ce GitHub, tu trouveras un peu de tout :
 - des idées en construction que j’améliore quand je peux 
 
 
-J’aime surtout progresser à mon rythme, découvrir de nouvelles technos, et construire des choses qui me donnent envie d’aller plus loin 🚀. Mon GitHub est surtout un espace où je garde une trace de mon apprentissage, de mes essais et de ma motivation à m’améliorer.
+J’aime surtout progresser à mon rythme, découvrir de nouvelles technos, et construire des choses qui me donnent envie d’aller plus loin . Mon GitHub est surtout un espace où je garde une trace de mon apprentissage.
 
 Merci d’être passé par ici 
 N’hésite pas à explorer mes projets ou à me laisser un petit retour !
