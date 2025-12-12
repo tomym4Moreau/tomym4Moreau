@@ -1,6 +1,6 @@
 Salut ! Moi c’est Moreau Tom 👋
 
-Je suis actuellement alternant dans le domaine du drone  — un univers qui me passionne autant pour la technologie que pour la créativité qu’il permet. À côté de ça, j’aime aussi toucher au code dès que j’ai un peu de temps libre 💻. Je ne suis encore qu’un débutant, mais j’avance tranquillement, projet après projet, en essayant de comprendre comment tout fonctionne et en apprenant de mes erreurs .
+Je suis actuellement alternant dans le domaine du drone  — un univers qui me passionne autant pour la technologie que pour la créativité qu’il permet. À côté de ça, j’aime aussi toucher au code dès que j’ai un peu de temps libre . Je ne suis encore qu’un débutant, mais j’avance tranquillement, projet après projet, en essayant de comprendre comment tout fonctionne et en apprenant de mes erreurs .
 
 
 Sur ce GitHub, tu trouveras un peu de tout :
